@@ -13,7 +13,7 @@ public class AppTest
      * Rigorous Test :-)
      */
     @Test
-    public void 2times2()
+    public void twotimestwo()
     {
         int num1 = 2;
         int num2 = 2;
